@@ -13,7 +13,7 @@ hero:
     - theme: brand
       text: Gamma Ray Burst
       link: /getting-started
-    - theme: alt
+    - theme: brand
       text: GR
       link: /guide
     - theme: alt
