@@ -10,7 +10,7 @@ makedocs(;
     sitename="YabusameHoulen",
     format=DocumenterVitepress.MarkdownVitepress(;
         repo="https://github.com/YabusameHoulen/Notes",
-        devurl="",
+        devurl="dev",
         devbranch="master",
         ### temporal adjustment to preview Documententation development instantly
         # md_output_path = "test",
