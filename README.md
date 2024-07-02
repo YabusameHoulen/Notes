@@ -1,0 +1,1 @@
+[Weird Link](https://yabusamehoulen.github.io/Notes/dev)
