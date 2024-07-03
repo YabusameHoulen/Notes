@@ -13,11 +13,15 @@ makedocs(;
         devurl="dev",
         devbranch="master",
         ### temporal adjustment to preview Documententation development instantly
-        # md_output_path = "test",
+        # md_output_path = "tempsrc",
         # build_vitepress = false,
     ),
     pages=[
         "Home" => "index.md",
+        "GRB" => [
+            "GRB/LeptonicProcesses.md",
+            "GRB/HadronicProcesses.md"
+        ]
     ],
     warnonly=true,
     ### temporal adjustment to preview Documententation development instantly

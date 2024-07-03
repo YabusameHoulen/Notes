@@ -4,7 +4,8 @@
 layout: home
 
 hero:
-  name: "  ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚   "
+  name: "*♡♬ ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚   "
+  text: "日常は奇跡の連続"
   tagline: Store some randomly generated notes
   image:
     src: /qpchan_logo.png
@@ -45,4 +46,4 @@ Some strange notes and a bit of simple Julia code, it might become a cyber alche
 
 Astrophysics is full of fun, but I can't enjoy it ... 
 
-Arrrrrrrrrrrrrrrrrrrrrrrrrrr!
+I want to take GRB notes first, it may take lots of time ~ AArrrrrrrrrrrrrrrrrrrrrrrrrrrrr !
