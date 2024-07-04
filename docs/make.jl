@@ -6,10 +6,11 @@ using DocumenterVitepress
 makedocs(;
     # modules=[YabusameHoulen],
     authors="YabusameHoulen <yabusamehour@gmail.com> and contributors",
-    repo="https://github.com/YabusameHoulen/Notes",
+    repo="github.com/YabusameHoulen/Notes",
     sitename="YabusameHoulen",
+    warnonly=true,
     format=DocumenterVitepress.MarkdownVitepress(;
-        repo="https://github.com/YabusameHoulen/Notes",
+        repo="github.com/YabusameHoulen/Notes",
         devurl="dev",
         devbranch="master",
         ### temporal adjustment to preview Documententation development instantly
@@ -23,7 +24,6 @@ makedocs(;
             "GRB/HadronicProcesses.md"
         ]
     ],
-    warnonly=true,
     ### temporal adjustment to preview Documententation development instantly
     # clean = false,
 )

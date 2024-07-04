@@ -19,7 +19,7 @@ $$P(\nu,\gamma)= \frac{\sqrt{3}q^3 B \mathrm{sin}(\alpha)}{m c^2} F(\frac{\nu}{\
 where $P = dE/(dtd\omega)= dE/(dtd\nu)$ is the emitted power per unit angular frequency or the emitted power per unit frequency.
 The characteristic angular frequence is $\omega_{ch} = \frac{3\gamma^2qB\mathrm{sin}(\alpha)}{2mc}$
 
-::: tip $F(x) = x \int^{\infty}_{x} K_{\frac{5}{3}}(\xi)d\xi$ —— the maximum is reached when $x=0.29,F(x)\approx0.92$
+::: tip $F(x) = x \int^{\infty}_{x} K_{\frac{5}{3}}(\xi)d\xi$ —— the maximum is reached when $x=0.29,F(x)\approx0.92$   
 the asymptotic behavior is
 
 $$F(x) \sim \begin{cases}
@@ -32,7 +32,7 @@ The total emission power of the particle (integrate $\nu$)
 
 $$P(\gamma) = 2\sigma_{T} c \gamma^2 \beta^2_{\bot} U_B$$
 
-$U_B = \frac{B^2}{8\pi}$ is the magnetic ﬁeld energy density in the emission region.  
+the $U_B = \frac{B^2}{8\pi}$ is magnetic ﬁeld energy density in the emission region.  
 Thomson cross section $\sigma_{T} = \frac{8\pi}{3}(\frac{q^2}{mc^2})^2 \simeq 6.65 \times 10^{-25} \mathrm{cm}^2$
 in lepton emission case.   
 since the emitting leptons are essentially electrons and positrons.

@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Gamma Ray Burst
-      link: /getting-started
+      link: GRB/LeptonicProcesses.md
     - theme: brand
       text: GR
       link: /guide
