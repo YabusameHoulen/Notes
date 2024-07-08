@@ -14,8 +14,11 @@ pair production-annihilation that occur when high-energy photons are involved.
 Widely thought to drive GRB afterglows and possibly the prompt emission as well.
 
 A particle with charge gyrating in a magnetic ﬁeld with respect to the ﬁeld line emits a synchrotron spectrum:
+
 $$P(\omega,\gamma) = \frac{\sqrt{3}q^3 B \mathrm{sin}(\alpha)}{2\pi m c^2} F(\frac{\omega}{\omega_{ch}})$$
+
 $$P(\nu,\gamma)= \frac{\sqrt{3}q^3 B \mathrm{sin}(\alpha)}{m c^2} F(\frac{\nu}{\nu_{ch}})$$
+
 where $P = dE/(dtd\omega)= dE/(dtd\nu)$ is the emitted power per unit angular frequency or the emitted power per unit frequency.
 The characteristic angular frequence is $\omega_{ch} = \frac{3\gamma^2qB\mathrm{sin}(\alpha)}{2mc}$
 

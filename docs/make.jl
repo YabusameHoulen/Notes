@@ -22,6 +22,9 @@ makedocs(;
         "GRB" => [
             "GRB/LeptonicProcesses.md",
             "GRB/HadronicProcesses.md"
+        ],
+        "GR" => [
+            "GR/Start.md"
         ]
     ],
     ### temporal adjustment to preview Documententation development instantly

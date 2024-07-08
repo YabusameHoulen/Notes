@@ -1,6 +1,6 @@
 # Hadronic Processes 
 
-## Proton Synchrotron and Inverse Compton
+## Proton Synchrotron and IC
 
 ## Photomeson Interaction: pγ
 
