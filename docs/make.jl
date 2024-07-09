@@ -20,12 +20,16 @@ makedocs(;
     pages=[
         "Home" => "index.md",
         "GRB" => [
+            "GRB/Start.md",
             "GRB/LeptonicProcesses.md",
             "GRB/HadronicProcesses.md"
         ],
         "GR" => [
             "GR/Start.md"
-        ]
+        ],
+        "QFT" => [
+            "QFT/Start.md"
+        ],
     ],
     ### temporal adjustment to preview Documententation development instantly
     # clean = false,

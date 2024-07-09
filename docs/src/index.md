@@ -13,13 +13,13 @@ hero:
   actions:
     - theme: brand
       text: Gamma Ray Burst
-      link: GRB/LeptonicProcesses.md
+      link: GRB/Start.md
     - theme: alt
       text: General Relativity
       link: GR/Start.md
     - theme: alt
       text: Quantum Field Theory
-      link: /guide
+      link: QFT/Start.md
 <!-- features:
   - icon: <img width="64" height="64" src="https://dataframes.juliadata.org/stable/assets/logo.png" alt="tables"/>
     title: Tables
