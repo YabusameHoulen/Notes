@@ -61,11 +61,11 @@ another charge (also called free-free emission).
 
 ## Pair Production and Annihilation
 
-**Maxwell's equations:**
+## Equations
+**Maxwell's equations:** (Gaussian units)
 
-|  equation                                                                                                                                                                 | description                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| $\nabla \cdot \vec{\mathbf{B}}  = 0$                                                                                                                                      | divergence of $\vec{\mathbf{B}}$ is zero                                               |
-| $\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t}  = \vec{\mathbf{0}}$                                                          | curl of $\vec{\mathbf{E}}$ is proportional to the rate of change of $\vec{\mathbf{B}}$ |
-| $\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} = \frac{4\pi}{c}\vec{\mathbf{j}}$ | _wha?_|                                                                                
-| $\nabla \cdot \vec{\mathbf{E}} = 4 \pi \rho$ | _wha?_                                                                               |
+No 4π factor in Coulomb's law and the Biot–Savart law. $\vec{\mathbf{E}}$ and $\vec{\mathbf{B}}$ in the same dimension
+
+| $\nabla \cdot \vec{\mathbf{E}} = 4 \pi \rho$ | $\nabla \cdot \vec{\mathbf{B}} = 0$ | $\nabla^2 \phi  \frac{1}{c^2} \frac{\partial^2 \phi}{\partial t^2}  = - 4\pi \rho$ | d'Alembert equation |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-----------------------: |
+| $\nabla \times \vec{\mathbf{E}} = - \frac{1}{c} \frac{\partial\vec{\mathbf{B}}}{\partial t}$ | $\nabla \times \vec{\mathbf{B}} = \frac{1}{c} \frac{\partial\vec{\mathbf{E}}}{\partial t} + \frac{4\pi}{c}\vec{\mathbf{j}}$ | $\nabla^2 \vec{\mathbf{A}} - \frac{1}{c^2} \frac{\partial^2 \vec{\mathbf{A}}}{\partial t^2}  = - \frac{4\pi}{c}\vec{\mathbf{j}}$ | Lorentz gauge |
