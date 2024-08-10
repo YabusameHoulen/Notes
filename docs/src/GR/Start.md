@@ -15,7 +15,7 @@
 拓扑空间之间同胚：两个拓扑空间可以建立双射 $\phi$, $\phi$和$\phi^{-1}$是连续的映射(开集的逆象是开集)
 
 ## 图 (Chart)
-(Chart)$C = (U_i,\phi)$被称为拓扑空间$(S,U)$的图, $U_i$是$U$的子集, $\phi$是$(S,U)$到$(\mathrm{R},U_{std})$的同胚：
+对$C = (U_i,\phi)$被称为拓扑空间$(S,U)$的图, $U_i$是$U$的子集, $\phi$是$(S,U)$到$(\mathrm{R},U_{std})$的同胚：
 
 $$U_i \subseteq U \rightarrow \phi(U_i) \subseteq \mathrm{R}^n$$ 
 
@@ -38,7 +38,7 @@ $$f_U = f \circ \phi^{-1} : \phi(U) \subseteq \mathrm{R}^n \rightarrow \mathrm{R
 $$f(p) = (f \circ \phi^{-1} \circ \phi)(p) = f_U(\phi(p)) = f_U(\vec{\mathbf{x}}_{\phi(p)})$$ 
 
 ## 图 (Chart)的兼容性
-为了能够将平滑性（$C^\infty$-可微性的概念从局部的图一致地扩展到整个流形, 需要在相交的图(Chart)上设相容性条件:
+为了能够将平滑性$C^\infty$-可微性的概念从局部的图一致地扩展到整个流形, 需要在相交的图(Chart)上设相容性条件:
 转换函数$\phi_2 \circ \phi_1^{-1}$和$\phi_1 \circ \phi_2^{-1}$都是光滑的, 或者这两个图(Chart)覆盖的范围
 不相交($U_1 \cap U_2 = \emptyset$)这样点p周围函数的平滑性将与图表无关 
 
