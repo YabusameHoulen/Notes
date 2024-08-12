@@ -25,7 +25,8 @@ makedocs(;
             "GRB/HadronicProcesses.md"
         ],
         "GR" => [
-            "GR/Start.md"
+            "GR/Start.md",
+            "GR/Tensors.md",
         ],
         "QFT" => [
             "QFT/Start.md"
