@@ -31,6 +31,9 @@ makedocs(;
         "QFT" => [
             "QFT/Start.md"
         ],
+        "Miscellaneous" => [
+            "Miscellaneous/Websites.md"
+        ]
     ],
     ### temporal adjustment to preview Documententation development instantly
     # clean = false,
