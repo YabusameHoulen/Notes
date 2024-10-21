@@ -22,7 +22,8 @@ makedocs(;
         "GRB" => [
             "GRB/Start.md",
             "GRB/LeptonicProcesses.md",
-            "GRB/HadronicProcesses.md"
+            "GRB/HadronicProcesses.md",
+            "GRB/Spectrum_plot.md"
         ],
         "GR" => [
             "GR/Start.md",
