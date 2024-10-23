@@ -3,7 +3,7 @@
 define some common functions and plot it !
 much intuitive than using numpy(
 
-```julia
+```@example 1
 using CairoMakie
 
 band(K, E, E_p, α, β, E_piv=100) = E > (α - β) * E_p / (2 + α) ?
@@ -35,4 +35,7 @@ lines!(ax, x, @. x^2 * blackbody(K_2, x, kT); label="bb")
 lines!(ax, x, @. x^2 * grbm(K_1, x, E_p, α, β) + x^2 * blackbody(K_2, x, kT); label="band+bb")
 CairoMakie.axislegend(position=:lt, framevisible=false)
 fig
+save("ex1.png", fig) # hide
+nothing # hide
 ```
+![](ex1.png)

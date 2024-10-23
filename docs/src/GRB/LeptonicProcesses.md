@@ -23,6 +23,7 @@ where $P = dE/(dtd\omega)= dE/(dtd\nu)$ is the emitted power per unit angular fr
 The characteristic angular frequence is $\omega_{ch} = \frac{3\gamma^2qB\mathrm{sin}(\alpha)}{2mc}$
 
 ::: tip $F(x) = x \int^{\infty}_{x} K_{\frac{5}{3}}(\xi)d\xi$ —— the maximum is reached when $x=0.29,F(x)\approx0.92$   
+
 the asymptotic behavior is
 
 $$F(x) \sim \begin{cases}
